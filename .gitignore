@@ -37,9 +37,12 @@ __pycache__/
 
 # Customized Makefile/project overrides
 ######################
-GNUmakefile
+#GNUmakefile
 user.props
 
 # Generated rst files
 ######################
 genrst/
+
+#frozen modules
+modules/*.py
